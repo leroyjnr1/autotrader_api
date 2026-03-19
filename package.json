@@ -1,1 +1,1 @@
-{ "name": "car-marketplace-webhook", "version": "1.0.0", "dependencies": { "node-fetch": "^2.6.7" } }
+{ "name": "autotrader_api-webhook", "version": "1.0.0", "dependencies": { "node-fetch": "^2.6.7" } }
